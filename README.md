@@ -4,7 +4,7 @@ A responsive weather application that allows users to search for a city and view
 
 ## 🚀 Live Demo
 
-👉 **[View Live Weather App]([YOUR_DEPLOYMENT_LINK_HERE](https://current-weather-check18.netlify.app))**
+👉 **[View Live Weather App](https://current-weather-check18.netlify.app)**
 
 ## 📌 Features
 
